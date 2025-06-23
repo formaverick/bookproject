@@ -1,6 +1,6 @@
 # 교보문고 스타일 웹구현 프로젝트
 
-![main](https://github.com/user-attachments/assets/598857e3-50eb-4c98-8702-b1bfaf73d732)
+![main2](https://github.com/user-attachments/assets/bd1ee02c-f256-4e33-9a6b-fae6395cb8a5)
 
 
 ## 목차
@@ -34,18 +34,29 @@
 
 ## 👾 프로젝트 설계, 구현 📂 PPT
 
-| ![1](https://github.com/user-attachments/assets/6a2dd671-451e-4adf-97ee-80a7c5d8ecbf) | ![2](https://github.com/user-attachments/assets/73d3a4ab-231c-4229-ab25-b1e36df9cd58) |
-| :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
-| ![3](https://github.com/user-attachments/assets/5ef711bc-b076-45ef-a963-af0f1f702b38) | ![4](https://github.com/user-attachments/assets/437dfbd1-78ac-480d-9544-99b9a369c777) |
-| ![5](https://github.com/user-attachments/assets/2b481f31-bb4f-45a0-a975-eecd0619a0b3) | ![6](https://github.com/user-attachments/assets/5153fafc-9b94-4f4b-90c1-75c08fed4786) |
-| ![7](https://github.com/user-attachments/assets/7878a447-f511-4a91-8b24-f6e33baa085a) | ![8](https://github.com/user-attachments/assets/3c50b1f0-9352-46c8-890a-9fdeaef0d4f4) |
-| ![9](https://github.com/user-attachments/assets/cb22e1c4-c0dd-468e-8676-daf9c66b4696) | ![10](https://github.com/user-attachments/assets/344d9da5-133f-4cc3-94ea-43dc2eb2f32b) |
-| ![11](https://github.com/user-attachments/assets/87cab5ad-1f09-4797-a99c-6fb37512190c) | ![12](https://github.com/user-attachments/assets/9f32666a-8298-4bd5-90f9-24e3148dc6ed) |
-| ![13](https://github.com/user-attachments/assets/b0705b5d-5679-4969-9cea-75d1ae337876) | ![14](https://github.com/user-attachments/assets/1b9b0111-7f91-4757-bae2-7ca35afd0639) |
-|![15](https://github.com/user-attachments/assets/37d52b1b-6101-4947-a50f-105f2e288b60) | ![16](https://github.com/user-attachments/assets/64781aae-24a6-4b46-975e-072249eb3e0f) |
-| ![17](https://github.com/user-attachments/assets/2ec2f839-343f-4803-a7d0-fb7ee276869b) | ![18](https://github.com/user-attachments/assets/0fc2eb8a-731a-4633-9cdb-cd111b4a9e84) |
-| ![19](https://github.com/user-attachments/assets/e1289a55-4481-4b77-a7ab-1f177ee5eaae) | ![20](https://github.com/user-attachments/assets/3e153a7d-ccfb-4814-aea1-f3b272db5062) |
-| ![21](https://github.com/user-attachments/assets/2b33e4c3-44c5-419e-9a45-d172fc119151) | |
+![1](https://github.com/user-attachments/assets/6a2dd671-451e-4adf-97ee-80a7c5d8ecbf) 
+![2](https://github.com/user-attachments/assets/73d3a4ab-231c-4229-ab25-b1e36df9cd58)
+![3](https://github.com/user-attachments/assets/5ef711bc-b076-45ef-a963-af0f1f702b38)
+![4](https://github.com/user-attachments/assets/437dfbd1-78ac-480d-9544-99b9a369c777)
+![5](https://github.com/user-attachments/assets/2b481f31-bb4f-45a0-a975-eecd0619a0b3)
+![6](https://github.com/user-attachments/assets/5153fafc-9b94-4f4b-90c1-75c08fed4786)
+![7](https://github.com/user-attachments/assets/7878a447-f511-4a91-8b24-f6e33baa085a)
+![8](https://github.com/user-attachments/assets/3c50b1f0-9352-46c8-890a-9fdeaef0d4f4)
+![9](https://github.com/user-attachments/assets/cb22e1c4-c0dd-468e-8676-daf9c66b4696)
+![10](https://github.com/user-attachments/assets/344d9da5-133f-4cc3-94ea-43dc2eb2f32b)
+![11](https://github.com/user-attachments/assets/87cab5ad-1f09-4797-a99c-6fb37512190c)
+![12](https://github.com/user-attachments/assets/9f32666a-8298-4bd5-90f9-24e3148dc6ed)
+![13](https://github.com/user-attachments/assets/b0705b5d-5679-4969-9cea-75d1ae337876)
+![14](https://github.com/user-attachments/assets/1b9b0111-7f91-4757-bae2-7ca35afd0639)
+![15](https://github.com/user-attachments/assets/37d52b1b-6101-4947-a50f-105f2e288b60)
+![16](https://github.com/user-attachments/assets/64781aae-24a6-4b46-975e-072249eb3e0f)
+![17](https://github.com/user-attachments/assets/2ec2f839-343f-4803-a7d0-fb7ee276869b)
+![18](https://github.com/user-attachments/assets/0fc2eb8a-731a-4633-9cdb-cd111b4a9e84)
+![19](https://github.com/user-attachments/assets/e1289a55-4481-4b77-a7ab-1f177ee5eaae)
+![20](https://github.com/user-attachments/assets/3e153a7d-ccfb-4814-aea1-f3b272db5062)
+![21](https://github.com/user-attachments/assets/2b33e4c3-44c5-419e-9a45-d172fc119151)
+
+
 ## 💻 핵심 기능
 
 ### 🛠️ 도서 목록
