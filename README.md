@@ -1,6 +1,7 @@
-![로그인](https://github.com/user-attachments/assets/7a58049b-c381-4200-919c-d0ab6eba1910)# 교보문고 스타일 웹구현 프로젝트
+# 교보문고 스타일 웹구현 프로젝트
 
-![main](https://github.com/user-attachments/assets/3ad1b192-12dc-4d71-a650-cea4a1e4d288)
+![main](https://github.com/user-attachments/assets/598857e3-50eb-4c98-8702-b1bfaf73d732)
+
 
 ## 목차
 
