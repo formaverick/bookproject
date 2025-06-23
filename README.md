@@ -34,8 +34,7 @@
 
 ## 👾 프로젝트 설계, 구현 📂 PPT
 
-|![1](https://github.com/user-attachments/assets/bfb8df9a-32f6-4db5-970a-73f92b3a80ea)
-| ![2](https://github.com/user-attachments/assets/73d3a4ab-231c-4229-ab25-b1e36df9cd58) |
+| ![1](https://github.com/user-attachments/assets/6a2dd671-451e-4adf-97ee-80a7c5d8ecbf) | ![2](https://github.com/user-attachments/assets/73d3a4ab-231c-4229-ab25-b1e36df9cd58) |
 | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
 | ![3](https://github.com/user-attachments/assets/5ef711bc-b076-45ef-a963-af0f1f702b38) | ![4](https://github.com/user-attachments/assets/437dfbd1-78ac-480d-9544-99b9a369c777) |
 | ![5](https://github.com/user-attachments/assets/2b481f31-bb4f-45a0-a975-eecd0619a0b3) | ![6](https://github.com/user-attachments/assets/5153fafc-9b94-4f4b-90c1-75c08fed4786) |
