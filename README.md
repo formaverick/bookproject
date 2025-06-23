@@ -1,7 +1,7 @@
-![ClassDiagram](https://github.com/user-attachments/assets/67217a7a-e77c-422c-bbff-351da4976a55)# 교보문고 스타일 웹구현 프로젝트
+# 교보문고 스타일 웹구현 프로젝트
 
 ![main2](https://github.com/user-attachments/assets/bd1ee02c-f256-4e33-9a6b-fae6395cb8a5)
-![main3](https://github.com/user-attachments/assets/061f6332-1725-463b-b8ec-83aa213c4aaa)
+<p align="center"><img src="https://github.com/user-attachments/assets/061f6332-1725-463b-b8ec-83aa213c4aaa"></p>
 ![main4](https://github.com/user-attachments/assets/17139746-967b-49de-b657-852d8459149f)
 
 
@@ -165,3 +165,10 @@
 
     ![상품목록 수정](https://github.com/user-attachments/assets/f70fa4ea-e26c-41d5-aab1-77ddff9978db)
     ![상품목록 등록, 삭제](https://github.com/user-attachments/assets/36ce8b34-2d3e-4d71-9ff8-806dc52c9fe4)
+
+
+## **🏠 도서 상세 페이지**
+
+![subq](https://github.com/user-attachments/assets/428d7ea8-b780-4e04-b274-1c46d80eea39)
+![sub2](https://github.com/user-attachments/assets/0c5df734-c5d0-4959-be77-fd8c6b138216)
+
