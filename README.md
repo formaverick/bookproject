@@ -1,6 +1,8 @@
-# 교보문고 스타일 웹구현 프로젝트
+![ClassDiagram](https://github.com/user-attachments/assets/67217a7a-e77c-422c-bbff-351da4976a55)# 교보문고 스타일 웹구현 프로젝트
 
 ![main2](https://github.com/user-attachments/assets/bd1ee02c-f256-4e33-9a6b-fae6395cb8a5)
+![main3](https://github.com/user-attachments/assets/061f6332-1725-463b-b8ec-83aa213c4aaa)
+![main4](https://github.com/user-attachments/assets/17139746-967b-49de-b657-852d8459149f)
 
 
 ## 목차
@@ -34,6 +36,8 @@
 
 ## 👾 프로젝트 설계, 구현 📂 PPT
 
+-📂 PPT
+
 ![1](https://github.com/user-attachments/assets/6a2dd671-451e-4adf-97ee-80a7c5d8ecbf) 
 ![2](https://github.com/user-attachments/assets/73d3a4ab-231c-4229-ab25-b1e36df9cd58)
 ![3](https://github.com/user-attachments/assets/5ef711bc-b076-45ef-a963-af0f1f702b38)
@@ -55,6 +59,16 @@
 ![19](https://github.com/user-attachments/assets/e1289a55-4481-4b77-a7ab-1f177ee5eaae)
 ![20](https://github.com/user-attachments/assets/3e153a7d-ccfb-4814-aea1-f3b272db5062)
 ![21](https://github.com/user-attachments/assets/2b33e4c3-44c5-419e-9a45-d172fc119151)
+
+
+-📂 Class diagram
+
+![ClassDiagram](https://github.com/user-attachments/assets/ed6eb25b-8da8-4b84-a4aa-1df24a32c604)
+
+-📂 Activity diagram
+
+![액티비티](https://github.com/user-attachments/assets/b15de466-1874-4bbb-a8c2-9269e10e4f35)
+
 
 
 ## 💻 핵심 기능
