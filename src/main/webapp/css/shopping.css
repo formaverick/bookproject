@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+body {
+	font-family: 'Noto Sans KR', sans-serif;
+	background-color: #f8f8f8;
+	margin: 0;
+	padding: 0;
+}
+
+.board-container {
+	width: 90%;
+	max-width: 1000px;
+	height: 750px;
+	margin: 60px auto;
+	background-color: #fff;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+	border-radius: 8px;
+	padding: 30px 40px;
+}
+
+.logoBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+#logo2 {
+	align-item: center; width : 150px;
+	height: 56px;
+	margin: 20px 20px;
+	background-color: #fff;
+	width: 150px;
+}
+
+.board-title {
+	font-size: 24px;
+	font-weight: bold;
+	color: #333;
+	margin-bottom: 30px;
+	border-bottom: 2px solid #5055b1;
+	padding-bottom: 12px;
+}
+
+.board-table {
+	width: 100%;
+	border-collapse: collapse;
+	font-size: 15px;
+}
+
+.board-table th,
+.board-table td {
+	padding: 14px 10px;
+	border-bottom: 1px solid #ddd;
+	text-align: center;
+}
+
+.board-table th {
+	background-color: #f0f2fc;
+	color: #333;
+	font-weight: 600;
+}
+
+.board-table td a {
+	color: #5055b1;
+	text-decoration: none;
+}
+
+.board-table td a:hover {
+	text-decoration: underline;
+}
+
+.board-btn-wrap {
+	text-align: right;
+	margin-top: 20px;
+}
+
+.btnWrite {
+	color: #5055b1;
+	padding: 10px 20px;
+	border: 1px solid #5055b1;
+	border-radius: 4px;
+	cursor: pointer;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.btnWrite:hover {
+	background-color: rgba(89, 89, 89, 0.15);
+	text-decoration: none;
+}
