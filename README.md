@@ -1,6 +1,6 @@
 # 교보문고 스타일 웹구현 프로젝트
 
-![main2](https://github.com/user-attachments/assets/bd1ee02c-f256-4e33-9a6b-fae6395cb8a5)
+![main2]()
 <p align="center">
   <img src="https://github.com/user-attachments/assets/061f6332-1725-463b-b8ec-83aa213c4aaa">
   <img src="https://github.com/user-attachments/assets/17139746-967b-49de-b657-852d8459149f">
@@ -9,15 +9,15 @@
 
 ## 목차
 
-- [개요](https://github.com/misosiruda/oh_my_car/blob/main/README.md#-%EA%B0%9C%EC%9A%94)
+- [개요]()
 
-- [기술 스택](https://github.com/misosiruda/oh_my_car/blob/main/README.md#-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D)
+- [기술 스택]()
 
-- [프로젝트 설계](https://github.com/misosiruda/oh_my_car/blob/main/README.md#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84-%EA%B5%AC%ED%98%84--ppt--erd-usecase)
+- [프로젝트 설계]()
 
-- [핵심 기능](https://github.com/misosiruda/oh_my_car/blob/main/README.md#-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5)
+- [핵심 기능]()
 
-- [주요기능 실행화면](https://github.com/misosiruda/oh_my_car/blob/main/README.md#-%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4)
+- [주요기능 실행화면]()
 
 
 ## 🚩 개요
