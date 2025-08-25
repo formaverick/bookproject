@@ -1,6 +1,6 @@
 # 교보문고 스타일 웹구현 프로젝트
 
-![main2]()
+![main2](https://github.com/user-attachments/assets/bd1ee02c-f256-4e33-9a6b-fae6395cb8a5)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/061f6332-1725-463b-b8ec-83aa213c4aaa">
   <img src="https://github.com/user-attachments/assets/17139746-967b-49de-b657-852d8459149f">
